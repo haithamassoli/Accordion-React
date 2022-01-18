@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Accordion-React/static/css/main.4b589e59.chunk.css",
+    "main.js": "/Accordion-React/static/js/main.9d09e3c8.chunk.js",
+    "main.js.map": "/Accordion-React/static/js/main.9d09e3c8.chunk.js.map",
+    "runtime-main.js": "/Accordion-React/static/js/runtime-main.fc9793ee.js",
+    "runtime-main.js.map": "/Accordion-React/static/js/runtime-main.fc9793ee.js.map",
+    "static/js/2.4750bdb4.chunk.js": "/Accordion-React/static/js/2.4750bdb4.chunk.js",
+    "static/js/2.4750bdb4.chunk.js.map": "/Accordion-React/static/js/2.4750bdb4.chunk.js.map",
+    "index.html": "/Accordion-React/index.html",
+    "precache-manifest.1760d7524cdef9dfb2f083dcc92998ba.js": "/Accordion-React/precache-manifest.1760d7524cdef9dfb2f083dcc92998ba.js",
+    "service-worker.js": "/Accordion-React/service-worker.js",
+    "static/css/main.4b589e59.chunk.css.map": "/Accordion-React/static/css/main.4b589e59.chunk.css.map",
+    "static/js/2.4750bdb4.chunk.js.LICENSE.txt": "/Accordion-React/static/js/2.4750bdb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc9793ee.js",
+    "static/js/2.4750bdb4.chunk.js",
+    "static/css/main.4b589e59.chunk.css",
+    "static/js/main.9d09e3c8.chunk.js"
+  ]
+}
